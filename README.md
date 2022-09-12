@@ -18,3 +18,6 @@
 <hr>
 6.main file with the main method<br>
 <img width="285" alt="Screenshot 2022-09-12 at 23 27 07" src="https://user-images.githubusercontent.com/74420607/189769389-6009a4a1-d759-452d-9599-91827d7b2167.png">
+7.How to structure application.properties file<br>
+<img width="426" alt="Screenshot 2022-09-12 at 23 31 06" src="https://user-images.githubusercontent.com/74420607/189769827-75c5e540-8aee-49b8-9bfc-850987d2d744.png">
+<hr>
